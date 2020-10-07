@@ -31,6 +31,15 @@ class FASTA:
         'N': 'N',
         'r': 'R',
         'R': 'R',
+        'y': 'Y',
+        'Y': 'Y',
+        'k': 'K',
+        'k': 'K',
+        'm': 'M',
+        's': 'S',
+        'S': 'S',
+        'w': 'W',
+        'W': 'W',
     }
 
     def __init__(self, fasta_path):
